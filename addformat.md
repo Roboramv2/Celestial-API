@@ -1,4 +1,4 @@
-### For contributing:
+# For contributing:
 
 * make sure the below mentioned datapoints are ready for the celestial body you want to add.
 * place the data in a dictionary with the keys being the labels mentioned.
