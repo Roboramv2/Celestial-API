@@ -17,3 +17,13 @@ This API serves as a database of information on several classes of celestial bod
 
 All endpoints take inputs in dictionary format.
 
+## Usage:
+Basic api call functions are given in [usecase.py](https://github.com/Roboramv2/Celestial-API/blob/main/usecase.py)
+
+API URL: 
+https://celestial-api.herokuapp.com/
+
+Endpoints available:
+https://celestial-api.herokuapp.com/getdata
+https://celestial-api.herokuapp.com/getlist
+
