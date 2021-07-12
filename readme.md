@@ -22,9 +22,7 @@ All endpoints take inputs in dictionary format.
 ## Usage:
 Basic api call functions are given in [usecase.py](https://github.com/Roboramv2/Celestial-API/blob/main/usecase.py)
 
-API Endpoints available:
+API URL:
 
-https://celestial-api.herokuapp.com/getdata
-
-https://celestial-api.herokuapp.com/getlist
+https://celestial-api.herokuapp.com/docs
 
